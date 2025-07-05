@@ -1,4 +1,6 @@
-# 🎬 IMDb Movies Data Analysis Project
+# 🎬 IMDb Movies Data Analysis Project  
+[🔗 View on GitHub](https://github.com/mdey26/IMdb-Movies-Analysis)
+
 
 This project presents a comprehensive data analysis of IMDb movies using Microsoft Excel. It explores multiple aspects of the dataset, including genres, languages, movie durations, directors, and budgets, to uncover insights into trends, performance, and relationships within the film industry.
 
